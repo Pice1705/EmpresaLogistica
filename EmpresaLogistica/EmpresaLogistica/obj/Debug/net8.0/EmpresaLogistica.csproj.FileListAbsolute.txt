@@ -1,0 +1,14 @@
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.AssemblyInfoInputs.cache
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.AssemblyInfo.cs
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.csproj.CoreCompileInputs.cache
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\bin\Debug\net8.0\EmpresaLogistica.exe
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\bin\Debug\net8.0\EmpresaLogistica.deps.json
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\bin\Debug\net8.0\EmpresaLogistica.runtimeconfig.json
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\bin\Debug\net8.0\EmpresaLogistica.dll
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\bin\Debug\net8.0\EmpresaLogistica.pdb
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.dll
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\refint\EmpresaLogistica.dll
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.pdb
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\EmpresaLogistica.genruntimeconfig.cache
+C:\Users\Franchi\source\repos\EmpresaLogistica\EmpresaLogistica\obj\Debug\net8.0\ref\EmpresaLogistica.dll
